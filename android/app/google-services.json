@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307609869872",
+    "project_id": "smartly-garden-vrd113",
+    "storage_bucket": "smartly-garden-vrd113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307609869872:android:02d2f8f6487ad35d75d7f5",
+        "android_client_info": {
+          "package_name": "com.example.smartly_garden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvClFQzo7EBZ31aCRRDiWwAUg8SMGayw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
